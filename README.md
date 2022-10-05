@@ -3,26 +3,26 @@ A simple game where you have to make each square equal to a certain number.
 
 For example make all the top left squre numbers equal to 2. So an example of a solution is:
 
-3 3 3   6 6 6   7 7 7
+3 3 3    6 6 6    7 7 7
 
-3 3 3   6 6 6   7 7 7
+3 3 3    6 6 6    7 7 7
 
-3 3 3   6 6 6   7 7 7
-
-
-
-1 1 1   5 5 5   2 2 2
-
-1 1 1   5 5 5   2 2 2
-
-1 1 1   5 5 5   2 2 2
+3 3 3    6 6 6    7 7 7
 
 
-8 8 8   9 9 9   4 4 4
 
-8 8 8   9 9 9   4 4 4
+1 1 1    5 5 5    2 2 2
 
-8 8 8   9 9 9   4 4 4
+1 1 1    5 5 5    2 2 2
+
+1 1 1    5 5 5    2 2 2
+
+
+8 8 8    9 9 9    4 4 4
+
+8 8 8    9 9 9    4 4 4
+
+8 8 8    9 9 9    4 4 4
 
 
 You Can move the rows and columns left, right, up or down.
